@@ -1,0 +1,31 @@
+<13>Oct 11 22:14:15 server1 sshd[12345]: Connection closed
+<14>Oct 11 22:14:16 server1 sshd[12346]: Invalid user admin from 192.168.1.100
+<15>Oct 11 22:14:17 server1 sshd[12347]: Failed password for root from 192.168.1.101 port 22 ssh2
+<16>Oct 11 22:14:18 server1 sshd[12348]: Accepted password for user1 from 192.168.1.50 port 22 ssh2
+<17>Oct 11 22:14:19 server1 su[12349]: Successful su for root by user1
+<13>Oct 11 22:14:20 server1 sshd[12350]: Connection closed
+<14>Oct 11 22:14:21 server1 sshd[12351]: Invalid user test from 192.168.1.102
+<15>Oct 11 22:14:22 server1 sshd[12352]: Failed password for admin from 192.168.1.103 port 22 ssh2
+<16>Oct 11 22:14:23 server1 sshd[12353]: Accepted publickey for user2 from 192.168.1.51 port 22 ssh2
+<13>Oct 11 22:14:24 server1 sshd[12354]: Connection closed
+<14>Oct 11 22:14:25 server1 sshd[12355]: Invalid user guest from 192.168.1.104
+<15>Oct 11 22:14:26 server1 sshd[12356]: Failed password for test from 192.168.1.105 port 22 ssh2
+<16>Oct 11 22:14:27 server1 sshd[12357]: Accepted password for user3 from 192.168.1.52 port 22 ssh2
+<17>Oct 11 22:14:28 server1 su[12358]: Successful su for admin by user3
+<13>Oct 11 22:14:29 server1 sshd[12359]: Connection closed
+<14>Oct 11 22:14:30 server1 sshd[12360]: Invalid user administrator from 192.168.1.106
+<15>Oct 11 22:14:31 server1 sshd[12361]: Failed password for guest from 192.168.1.107 port 22 ssh2
+<16>Oct 11 22:14:32 server1 sshd[12362]: Accepted publickey for user4 from 192.168.1.53 port 22 ssh2
+<13>Oct 11 22:14:33 server1 sshd[12363]: Connection closed
+<14>Oct 11 22:14:34 server1 sshd[12364]: Invalid user root from 192.168.1.108
+<15>Oct 11 22:14:35 server1 sshd[12365]: Failed password for administrator from 192.168.1.109 port 22 ssh2
+2023-10-11T22:14:36 server1 sshd: Accepted password for user5 from 192.168.1.54 port 22 ssh2
+2023-10-11T22:14:37 server1 su: Successful su for test by user5
+2023-10-11T22:14:38 server1 sshd: Connection closed
+2023-10-11T22:14:39 server1 sshd: Invalid user demo from 192.168.1.110
+2023-10-11T22:14:40 server1 sshd: Failed password for demo from 192.168.1.111 port 22 ssh2
+2023-10-11T22:14:41 server1 sshd: Accepted publickey for user6 from 192.168.1.55 port 22 ssh2
+2023-10-11T22:14:42 server1 sshd: Connection closed
+2023-10-11T22:14:43 server1 sshd: Invalid user testuser from 192.168.1.112
+2023-10-11T22:14:44 server1 sshd: Failed password for testuser from 192.168.1.113 port 22 ssh2
+2023-10-11T22:14:45 server1 sshd: Accepted password for user7 from 192.168.1.56 port 22 ssh2

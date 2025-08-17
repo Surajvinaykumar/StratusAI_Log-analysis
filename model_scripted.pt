@@ -1,0 +1,8 @@
+import torch
+from train_model import Net
+
+model = Net(42)  # Use your actual input size
+model.load_state_dict(torch.load("model.pth"))
+# Export as TorchScript (recommended for Triton)
+scripted_model = torch.jit.script(model)
+scripted_model.save("model_scripted.pt")
