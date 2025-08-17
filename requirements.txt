@@ -8,4 +8,5 @@ seaborn==0.12.2
 plotly==5.15.0
 werkzeug==2.3.6
 python-multipart==0.0.6
-setuptools>=42
+setuptools>=65.5.0
+wheel>=0.41.0
